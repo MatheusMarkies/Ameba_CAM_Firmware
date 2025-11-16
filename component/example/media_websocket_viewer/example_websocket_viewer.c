@@ -25,7 +25,7 @@
 *****************************************************************************/
 
 #define V1_CHANNEL 0
-#define V1_BPS 2*1024*1024
+#define V1_BPS 4*1024*1024
 #define V1_RCMODE 2 // 1: CBR, 2: VBR
 
 #define VIDEO_TYPE VIDEO_H264
@@ -67,10 +67,10 @@ static int start_video_streaming(void)
 	printf("Starting video streaming...\r\n");
 
 	video_v1_params.resolution = VIDEO_FHD;
-	video_v1_params.width = 1920;
-	video_v1_params.height = 1080;
-	video_v1_params.fps = 30;
-	video_v1_params.gop = 30;
+	video_v1_params.width = 1280;
+	video_v1_params.height = 720;
+	video_v1_params.fps = 20;
+	video_v1_params.gop = 20;
 
 #if (USE_UPDATED_VIDEO_HEAP == 0)
 	int voe_heap_size = video_voe_presetting(1, video_v1_params.width, video_v1_params.height, V1_BPS, 0,
@@ -94,7 +94,7 @@ static int start_video_streaming(void)
 
 	encode_rc_parm_t rc_parm;
 	rc_parm.minQp = 15;
-	rc_parm.maxQp = 26;
+	rc_parm.maxQp = 40;
 	mm_module_ctrl(video_v1_ctx, CMD_VIDEO_SET_RCPARAM, (int)&rc_parm);
 
 	wview_v1_ctx = mm_module_open(&websocket_viewer_module);
@@ -137,8 +137,9 @@ video_fail:
 	return -1;
 }
 
-void on_wifi_connected(void)
-{
+int connection_by_bt = 2;
+
+void kill_bt(){
 	bt_config_send_msg(0);
 	vTaskDelay(1000);
     printf("[APP] Desligando o Bluetooth para liberar a antena...\r\n");
@@ -147,6 +148,14 @@ void on_wifi_connected(void)
 	printf("Waiting for network stability...\r\n");
 
 	vTaskDelay(2000);
+}
+
+void on_wifi_connected(void)
+{
+	if(connection_by_bt == 1){
+		//kill_bt();
+	}
+
 	uint8_t *ip = LwIP_GetIP(0);
 	printf("\r\n========================================\r\n");
 	printf("WiFi Connected Successfully!\r\n");
@@ -167,14 +176,7 @@ void on_wifi_connected(void)
 	}
 }
 
-static void mmf2_video_websocket_viewer(void *param)
-{
-	printf("\r\n");
-	printf("========================================\r\n");
-	printf("  AMB82-Mini BT WiFi Config + Video\r\n");
-	printf("  Version: 1.0\r\n");
-	printf("========================================\r\n");
-
+void clear_wifi_autoreconnect(){
 	wifi_config_autoreconnect(0, 0, 0);
 	printf("Auto-reconnect disabled\r\n");
 
@@ -183,24 +185,36 @@ static void mmf2_video_websocket_viewer(void *param)
 	wifi_disconnect();
 	vTaskDelay(2000);
 	printf("[APP] WiFi desligado. Iniciando Bluetooth...\r\n");
+}
 
-	/*if ((wifi_get_join_status() == RTW_JOINSTATUS_SUCCESS) && 
+static void mmf2_video_websocket_viewer(void *param)
+{
+	printf("\r\n");
+	printf("========================================\r\n");
+	printf("  AMB82-Mini BT WiFi Config + Video\r\n");
+	printf("  Version: 1.0\r\n");
+	printf("========================================\r\n");
+
+	//clear_wifi_autoreconnect();
+	if(connection_by_bt == 2){
+	vTaskDelay(15000);
+	if ((wifi_get_join_status() == RTW_JOINSTATUS_SUCCESS) && 
 	    (*(u32 *)LwIP_GetIP(0) != IP_ADDR_INVALID)) {
-		
+		connection_by_bt = 0;
 		uint8_t *ip = LwIP_GetIP(0);
-		printf("WARNING: WiFi already connected! (Should not happen)\r\n");
+		printf("WARNING: WiFi already connected!\r\n");
 		printf("Current IP: %d.%d.%d.%d\r\n", ip[0], ip[1], ip[2], ip[3]);
 		vTaskDelay(5000);
-		on_wifi_connected();*/
+		on_wifi_connected();
 		
-	//} else {
-		printf("No WiFi connection found (This is correct)\r\n");
+	} else {
+		printf("No WiFi connection found\r\n");
 		printf("Waiting for WiFi configuration via Bluetooth...\r\n");
 		printf("Use BLE app to send: SSID:PASSWORD\r\n");
 		printf("========================================\r\n");
 
 		printf("[BT_CONFIG] Iniciando...\r\n");
-		
+		connection_by_bt = 1;
 		
 		int ret = bt_config_app_init();
 
@@ -212,12 +226,12 @@ static void mmf2_video_websocket_viewer(void *param)
 		
 		printf("[BT_CONFIG] Aguardando credenciais via Bluetooth...\r\n");
 		printf("[BT_CONFIG] Envie no formato: SSID:senha\r\n");
-	//}
-
-	printf("[APP] Task principal aguardando configuração BT...\r\n");
+	}	
 	while(1) {
 		vTaskDelay(10000);
 	}
+}
+
 }
 
 void example_websocket_viewer(void)
