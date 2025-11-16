@@ -25,7 +25,7 @@
 *****************************************************************************/
 
 #define V1_CHANNEL 0
-#define V1_BPS 4*1024*1024
+#define V1_BPS 1*1024*1024
 #define V1_RCMODE 2 // 1: CBR, 2: VBR
 
 #define VIDEO_TYPE VIDEO_H264
@@ -45,7 +45,7 @@ static video_params_t video_v1_params = {
 	.rc_mode = V1_RCMODE,
 	.use_static_addr = 1,
 	.level = VCENC_H264_LEVEL_4,
-	.profile = VCENC_H264_MAIN_PROFILE,
+	.profile = VCENC_H264_BASE_PROFILE,
 	.cavlc = 1 
 };
 
@@ -66,7 +66,7 @@ static int start_video_streaming(void)
 
 	printf("Starting video streaming...\r\n");
 
-	video_v1_params.resolution = VIDEO_FHD;
+	video_v1_params.resolution = VIDEO_HD;
 	video_v1_params.width = 1280;
 	video_v1_params.height = 720;
 	video_v1_params.fps = 20;
@@ -153,7 +153,7 @@ void kill_bt(){
 void on_wifi_connected(void)
 {
 	if(connection_by_bt == 1){
-		//kill_bt();
+		kill_bt();
 	}
 
 	uint8_t *ip = LwIP_GetIP(0);
