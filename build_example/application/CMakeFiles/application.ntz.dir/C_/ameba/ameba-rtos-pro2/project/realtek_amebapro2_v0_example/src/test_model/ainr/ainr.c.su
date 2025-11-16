@@ -1,0 +1,12 @@
+C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/src/test_model/ainr/ainr.c:18:24:get_pixel_from_planar_with_padding	8	static
+C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/src/test_model/ainr/ainr.c:61:13:update_time_stats	0	static
+c:\ameba\ameba-rtos-pro2\project\realtek_amebapro2_v0_example\src\test_model\ainr\ulaw_lut.h:298:6:ainr_ulaw_encode	16	static
+c:\ameba\ameba-rtos-pro2\project\realtek_amebapro2_v0_example\src\test_model\ainr\ulaw_lut.h:327:6:ainr_ulaw_decode	12	static
+c:\ameba\ameba-rtos-pro2\project\realtek_amebapro2_v0_example\src\test_model\ainr\ulaw_lut.h:336:6:ainr_ulaw_encode_fast	24	static
+c:\ameba\ameba-rtos-pro2\project\realtek_amebapro2_v0_example\src\test_model\ainr\ulaw_lut.h:356:6:ainr_ulaw_decode_fast	24	static
+C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/src/test_model/ainr/ainr.c:47:6:pack_bayer_to_planar	12	static
+C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/src/test_model/ainr/ainr.c:75:6:ainr_dump_time_stats	24	static
+C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/src/test_model/ainr/ainr.c:125:13:ainr_init	8	static
+C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/src/test_model/ainr/ainr.c:152:6:ainr_deinit	8	static
+C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/src/test_model/ainr/ainr.c:347:5:ainr_process_frame	168	static
+C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/src/test_model/ainr/ainr.c:385:6:ainr_example_init	8	static

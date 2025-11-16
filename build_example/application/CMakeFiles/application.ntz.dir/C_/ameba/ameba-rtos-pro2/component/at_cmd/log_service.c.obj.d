@@ -1,0 +1,23 @@
+application/CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/at_cmd/log_service.c.obj: \
+ C:/ameba/ameba-rtos-pro2/component/at_cmd/log_service.c \
+ C:/ameba/ameba-rtos-pro2/component/at_cmd/log_service.h \
+ C:/ameba/ameba-rtos-pro2/component/stdlib/dlist.h \
+ C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/inc/platform_opts.h \
+ C:/ameba/ameba-rtos-pro2/component/stdlib/platform_stdlib.h \
+ C:/ameba/ameba-rtos-pro2/component/stdlib/platform_stdlib_rtl8735b.h \
+ C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/inc/main.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/driver/include/autoconf.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/driver/include/autoconf_debug.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/driver/include/autoconf_8735b.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/driver/include/autoconf_eap.h \
+ C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_wifi.h \
+ C:/ameba/ameba-rtos-pro2/component/os/os_dep/include/osdep_service.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/platform_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/platform_conf_ntz.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/verify_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/sw_feature_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/basic_types.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_service.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/queue.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/timers.h \
+ C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/inc/platform_opts_bt.h

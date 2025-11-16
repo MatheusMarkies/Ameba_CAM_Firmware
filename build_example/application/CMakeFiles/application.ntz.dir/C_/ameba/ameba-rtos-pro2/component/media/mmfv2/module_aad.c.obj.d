@@ -1,0 +1,25 @@
+application/CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/media/mmfv2/module_aad.c.obj: \
+ C:/ameba/ameba-rtos-pro2/component/media/mmfv2/module_aad.c \
+ C:/ameba/ameba-rtos-pro2/component/media/mmfv2/mmf2_module.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/diag.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/platform_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/platform_conf_ntz.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/verify_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/sw_feature_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/basic_types.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/log_buf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/rt_printf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/cmsis-core/include/cmsis_compiler.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/cmsis-core/include/cmsis_gcc.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/printf_entry.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/stdio_port/stdio_port.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/misc/utilities/include/utility.h \
+ C:/ameba/ameba-rtos-pro2/component/media/mmfv2/mmf2_mediatime_8735b.h \
+ C:/ameba/ameba-rtos-pro2/component/media/mmfv2/module_aad.h \
+ C:/ameba/ameba-rtos-pro2/component/audio/3rdparty/fdk-aac-2.0.2/libAACdec/include/aacdecoder_lib.h \
+ C:/ameba/ameba-rtos-pro2/component/audio/3rdparty/fdk-aac-2.0.2/libSYS/include/machine_type.h \
+ C:/ameba/ameba-rtos-pro2/component/audio/3rdparty/fdk-aac-2.0.2/libSYS/include/FDK_audio.h \
+ C:/ameba/ameba-rtos-pro2/component/audio/3rdparty/fdk-aac-2.0.2/libSYS/include/machine_type.h \
+ C:/ameba/ameba-rtos-pro2/component/audio/3rdparty/fdk-aac-2.0.2/libSYS/include/genericStds.h \
+ C:/ameba/ameba-rtos-pro2/component/audio/3rdparty/fdk-aac-2.0.2/libSYS/include/syslib_channelMapDescr.h \
+ C:/ameba/ameba-rtos-pro2/component/audio/3rdparty/fdk-aac-2.0.2/libSYS/include/genericStds.h

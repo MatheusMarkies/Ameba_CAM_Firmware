@@ -1,0 +1,31 @@
+application/CMakeFiles/outsrc.dir/C_/ameba/ameba-rtos-pro2/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_pthread.c.obj: \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_pthread.c \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/include/FreeRTOS_POSIX.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/include/portable/realtek/rtl8735b/FreeRTOS_POSIX_portable.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/include/FreeRTOS_POSIX_portable_default.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/FreeRTOS.h \
+ C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/inc/FreeRTOSConfig.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/projdefs.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/portable.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/deprecated_definitions.h \
+ c:\ameba\ameba-rtos-pro2\component\os\freertos\freertos_v202012.00\source\portable\gcc\arm_cm33\non_secure\portmacro.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/mpu_wrappers.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/event_groups.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/timers.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/task.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/list.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/semphr.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/queue.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/task.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_posix/lib/include/FreeRTOS_POSIX/sys/types.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/include/FreeRTOS_POSIX_types.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/include/FreeRTOS_POSIX_internal.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_posix/lib/FreeRTOS-Plus-POSIX/include/FreeRTOS_POSIX.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_posix/lib/include/private/aws_doubly_linked_list.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_posix/lib/include/FreeRTOS_POSIX/errno.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_posix/lib/include/FreeRTOS_POSIX/pthread.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_posix/lib/include/FreeRTOS_POSIX/sched.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_posix/lib/include/FreeRTOS_POSIX/time.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_posix/lib/include/FreeRTOS_POSIX/time_gcc.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_posix/lib/include/FreeRTOS_POSIX/sys/types.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_posix/lib/include/FreeRTOS_POSIX/posix_signal.h

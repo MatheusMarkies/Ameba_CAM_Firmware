@@ -1,0 +1,22 @@
+application/CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/tensor.c.obj: \
+ C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/tensor.c \
+ C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/src/test_model/nn_utils/quantize.h \
+ C:/ameba/ameba-rtos-pro2/component/media/mmfv2/mmf2_module.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/diag.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/platform_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/platform_conf_ntz.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/verify_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/sw_feature_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/basic_types.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/log_buf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/rt_printf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/cmsis-core/include/cmsis_compiler.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/cmsis-core/include/cmsis_gcc.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/printf_entry.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/stdio_port/stdio_port.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/misc/utilities/include/utility.h \
+ C:/ameba/ameba-rtos-pro2/component/media/mmfv2/mmf2_mediatime_8735b.h \
+ C:/ameba/ameba-rtos-pro2/component/media/mmfv2/module_vipnn.h \
+ c:\ameba\ameba-rtos-pro2\project\realtek_amebapro2_v0_example\src\viplitedrv_2.0.0\include\nbg_linker\vip_lite.h \
+ c:\ameba\ameba-rtos-pro2\project\realtek_amebapro2_v0_example\src\viplitedrv_2.0.0\include\vip_lite_common.h \
+ c:\ameba\ameba-rtos-pro2\project\realtek_amebapro2_v0_example\src\test_model\img_process\img_process.h

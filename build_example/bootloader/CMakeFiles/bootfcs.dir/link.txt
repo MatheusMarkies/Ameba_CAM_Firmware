@@ -1,0 +1,2 @@
+arm-none-eabi-ar qc libbootfcs.a CMakeFiles/bootfcs.dir/C_/ameba/ameba-rtos-pro2/component/video/driver/RTL8735B/video_user_boot.c.obj
+C:/ameba/asdk-10.3.0/bin/arm-none-eabi-ranlib.exe libbootfcs.a

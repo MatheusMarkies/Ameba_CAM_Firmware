@@ -1,0 +1,10 @@
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/ble_app_main.c:151:6:bt_stack_config_init	8	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/ble_app_main.c:162:6:app_le_gap_init	96	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/ble_app_main.c:302:6:app_le_profile_init	8	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/ble_app_main.c:318:6:board_init	0	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/ble_app_main.c:328:6:driver_init	0	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/ble_app_main.c:337:6:pwr_mgr_init	0	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/ble_app_main.c:346:6:task_init	8	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/ble_app_main.c:355:5:ble_app_main	8	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/ble_app_main.c:371:5:ble_app_init	16	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/ble_app_main.c:405:6:ble_app_deinit	16	static

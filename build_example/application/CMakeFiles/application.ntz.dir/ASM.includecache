@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/src/test_model/ainr/ulaw_decode_lookup.S
+
+C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/src/test_model/ainr/ulaw_encode_lookup.S
+

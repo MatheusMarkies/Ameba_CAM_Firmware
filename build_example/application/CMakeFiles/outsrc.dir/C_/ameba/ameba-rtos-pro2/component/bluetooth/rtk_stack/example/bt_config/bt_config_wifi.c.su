@@ -1,0 +1,10 @@
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:50:21:scan_result_handler	32	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:174:13:wifi_join_status_callback	24	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:90:11:BC_req_band_hdl	8	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:106:5:BC_req_scan_hdl	128	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:194:5:BC_req_connect_hdl	296	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:290:6:BC_req_status_hdl	240	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:324:6:BC_status_monitor	8	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:368:6:bt_config_create_secure_context	0	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:375:6:bt_config_wifi_init	8	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/bt_config/bt_config_wifi.c:388:6:bt_config_wifi_deinit	16	static

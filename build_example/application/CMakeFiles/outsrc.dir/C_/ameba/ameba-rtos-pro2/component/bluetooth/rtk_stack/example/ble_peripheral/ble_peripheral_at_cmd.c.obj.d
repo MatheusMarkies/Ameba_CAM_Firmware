@@ -1,0 +1,35 @@
+application/CMakeFiles/outsrc.dir/C_/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/ble_peripheral_at_cmd.c.obj: \
+ C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/ble_peripheral_at_cmd.c \
+ C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/inc/platform_opts_bt.h \
+ C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/inc/platform_opts.h \
+ C:/ameba/ameba-rtos-pro2/component/stdlib/platform_stdlib.h \
+ C:/ameba/ameba-rtos-pro2/component/stdlib/platform_stdlib_rtl8735b.h \
+ C:/ameba/ameba-rtos-pro2/component/at_cmd/log_service.h \
+ C:/ameba/ameba-rtos-pro2/component/stdlib/dlist.h \
+ C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\platform\amebapro2\lib\upperstack_config.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\bt_types.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap_chann.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap_adv.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap_le.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap_callback_le.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap_storage_le.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap_le_types.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap_bond_le.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap_conn_le.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap_msg.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\app\app_msg.h \
+ C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/app_flags.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\app\app_common_flags.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\os\os_msg.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\os\os_sched.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\profile\profile_server.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\bt_types.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\profile\gatt.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap_le.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\profile\profile_server_def.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\os\os_mem.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\os\osif\mem_types.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/basic_types.h

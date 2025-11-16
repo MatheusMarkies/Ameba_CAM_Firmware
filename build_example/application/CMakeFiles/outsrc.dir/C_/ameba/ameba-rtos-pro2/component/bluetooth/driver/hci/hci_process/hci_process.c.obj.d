@@ -1,0 +1,32 @@
+application/CMakeFiles/outsrc.dir/C_/ameba/ameba-rtos-pro2/component/bluetooth/driver/hci/hci_process/hci_process.c.obj: \
+ C:/ameba/ameba-rtos-pro2/component/bluetooth/driver/hci/hci_process/hci_process.c \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\os\osif\osif.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\os\osif\mem_types.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\driver\platform\amebapro2\inc\hci_config.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\driver\inc\hci\hci_common.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\driver\inc\hci\hci_process.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\driver\platform\amebapro2\inc\hci_platform.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\driver\platform\amebapro2\inc\hci_uart.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/api/wifi_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/basic_types.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/driver/include/wifi_constants.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/driver/include/wifi_structures.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/driver/include/wifi_constants.h \
+ C:/ameba/ameba-rtos-pro2/component/stdlib/dlist.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/driver/src/osdep/wlan_intf.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/driver/include/autoconf.h \
+ C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/inc/platform_opts.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/driver/include/autoconf_debug.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/driver/include/autoconf_8735b.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/driver/include/autoconf_eap.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/driver/src/osdep/wireless.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/api/wifi_ind.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/api/wifi_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/stdlib/platform_stdlib.h \
+ C:/ameba/ameba-rtos-pro2/component/stdlib/platform_stdlib_rtl8735b.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/driver/src/osdep/bt_intf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/platform_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/platform_conf_ntz.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/verify_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/sw_feature_conf.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\driver\platform\amebapro2\inc\hci_dbg.h

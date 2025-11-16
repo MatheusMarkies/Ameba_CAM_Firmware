@@ -1,0 +1,16 @@
+C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.c:775:6:fATBL	0	static
+C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.c:2055:6:fATBV	8	static
+C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.c:73:6:set_bt_cmd_type	0	static
+C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.c:78:9:bt_command_type	0	static
+C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.c:724:6:fATBp	80	static
+C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.c:819:6:fATBA	80	static
+C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.c:1210:6:fATBB	80	static
+C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.c:176:6:bt_at_cmd_send_msg	32	static
+C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.c:848:6:fATBe	80	static
+C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.c:883:6:fATBP	80	static
+C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.c:913:6:fATBX	80	static
+C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.c:964:6:fATBK	80	static
+C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.c:1001:6:fATBY	80	static
+C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.c:1035:6:fATBU	80	static
+C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.c:1067:6:fATBO	80	static
+C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.c:2176:6:at_bt_init	8	static

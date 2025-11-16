@@ -1,0 +1,32 @@
+application/CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/media/mmfv2/module_demuxer.c.obj: \
+ C:/ameba/ameba-rtos-pro2/component/media/mmfv2/module_demuxer.c \
+ C:/ameba/ameba-rtos-pro2/component/stdlib/platform_stdlib.h \
+ C:/ameba/ameba-rtos-pro2/component/stdlib/platform_stdlib_rtl8735b.h \
+ C:/ameba/ameba-rtos-pro2/component/file_system/fatfs/fatfs_sdcard_api.h \
+ C:/ameba/ameba-rtos-pro2/component/file_system/fatfs/r0.14/ff.h \
+ C:/ameba/ameba-rtos-pro2/component/file_system/fatfs/r0.14/integer.h \
+ C:/ameba/ameba-rtos-pro2/component/file_system/fatfs/r0.14/ffconf.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_service.h \
+ C:/ameba/ameba-rtos-pro2/component/stdlib/dlist.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/queue.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/timers.h \
+ C:/ameba/ameba-rtos-pro2/component/media/mmfv2/mmf2_module.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/diag.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/platform_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/platform_conf_ntz.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/verify_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/sw_feature_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/basic_types.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/log_buf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/rt_printf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/cmsis-core/include/cmsis_compiler.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/cmsis-core/include/cmsis_gcc.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/printf_entry.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/stdio_port/stdio_port.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/misc/utilities/include/utility.h \
+ C:/ameba/ameba-rtos-pro2/component/media/mmfv2/mmf2_mediatime_8735b.h \
+ C:/ameba/ameba-rtos-pro2/component/media/mmfv2/module_demuxer.h \
+ C:/ameba/ameba-rtos-pro2/component/media/muxer/mp4_demuxer.h \
+ C:/ameba/ameba-rtos-pro2/component/os/os_dep/include/osdep_service.h \
+ C:/ameba/ameba-rtos-pro2/component/media/rtp_codec/avcodec.h \
+ C:/ameba/ameba-rtos-pro2/component/media/mmfv2/memory_encoder.h

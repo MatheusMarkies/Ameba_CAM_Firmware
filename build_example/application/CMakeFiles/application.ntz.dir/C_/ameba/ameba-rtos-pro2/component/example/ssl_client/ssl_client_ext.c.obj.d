@@ -1,0 +1,29 @@
+application/CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/example/ssl_client/ssl_client_ext.c.obj: \
+ C:/ameba/ameba-rtos-pro2/component/example/ssl_client/ssl_client_ext.c \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/FreeRTOS.h \
+ C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/inc/FreeRTOSConfig.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/projdefs.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/portable.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/deprecated_definitions.h \
+ c:\ameba\ameba-rtos-pro2\component\os\freertos\freertos_v202012.00\source\portable\gcc\arm_cm33\non_secure\portmacro.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/mpu_wrappers.h \
+ C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/inc/platform_opts.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/config.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/mbedtls_config.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/check_config.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/platform.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/ssl.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/bignum.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/ecp.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/ssl_ciphersuites.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/pk.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/md.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/platform_util.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/rsa.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/ecdsa.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/cipher.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/x509_crt.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/x509.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/asn1.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/x509_crl.h \
+ C:/ameba/ameba-rtos-pro2/component/ssl/mbedtls-2.28.1/include/mbedtls/ecdh.h

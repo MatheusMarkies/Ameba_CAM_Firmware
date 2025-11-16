@@ -1,0 +1,35 @@
+application/CMakeFiles/outsrc.dir/C_/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/bt_config/bt_config_service.c.obj: \
+ C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/bt_config/bt_config_service.c \
+ C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/inc/platform_opts_bt.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\platform\trace_app.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\platform\trace.h \
+ C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/bt_config/bt_config_service.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\profile\profile_server.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\platform\amebapro2\lib\upperstack_config.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\bt_types.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\profile\gatt.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap_le.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\bt_types.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap_chann.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap_callback_le.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap_storage_le.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap_le_types.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\profile\profile_server_def.h \
+ C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/bt_config/bt_config_config.h \
+ c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\inc\bluetooth\gap\gap.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/diag.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/platform_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/platform_conf_ntz.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/verify_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/sw_feature_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/basic_types.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/log_buf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/rt_printf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/cmsis-core/include/cmsis_compiler.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/cmsis-core/include/cmsis_gcc.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/printf_entry.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/stdio_port/stdio_port.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/misc/utilities/include/utility.h \
+ C:/ameba/ameba-rtos-pro2/component/stdlib/platform_stdlib.h \
+ C:/ameba/ameba-rtos-pro2/component/stdlib/platform_stdlib_rtl8735b.h

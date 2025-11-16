@@ -1,0 +1,32 @@
+application/CMakeFiles/outsrc.dir/C_/ameba/ameba-rtos-pro2/component/os/freertos/cmsis_os.c.obj: \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/cmsis_os.c \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/cmsis_os.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/FreeRTOS.h \
+ C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/inc/FreeRTOSConfig.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/projdefs.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/portable.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/deprecated_definitions.h \
+ c:\ameba\ameba-rtos-pro2\component\os\freertos\freertos_v202012.00\source\portable\gcc\arm_cm33\non_secure\portmacro.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/mpu_wrappers.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/task.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/list.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/timers.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/task.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/queue.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/semphr.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/queue.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/event_groups.h \
+ C:/ameba/ameba-rtos-pro2/component/os/freertos/freertos_v202012.00/Source/include/timers.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/diag.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/platform_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/platform_conf_ntz.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/verify_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/sw_feature_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/basic_types.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/log_buf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/rt_printf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/cmsis-core/include/cmsis_compiler.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/cmsis-core/include/cmsis_gcc.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/printf_entry.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/stdio_port/stdio_port.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/misc/utilities/include/utility.h

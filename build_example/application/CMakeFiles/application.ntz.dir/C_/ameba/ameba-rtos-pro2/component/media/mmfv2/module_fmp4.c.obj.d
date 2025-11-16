@@ -1,0 +1,26 @@
+application/CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/media/mmfv2/module_fmp4.c.obj: \
+ C:/ameba/ameba-rtos-pro2/component/media/mmfv2/module_fmp4.c \
+ C:/ameba/ameba-rtos-pro2/component/media/rtp_codec/avcodec.h \
+ C:/ameba/ameba-rtos-pro2/component/media/mmfv2/mmf2_module.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/diag.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/platform_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/platform_conf_ntz.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/verify_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/sw_feature_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/rtl8735b/include/basic_types.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/log_buf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/rt_printf.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/cmsis-core/include/cmsis_compiler.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/cmsis/cmsis-core/include/cmsis_gcc.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/rtl_printf/include/printf_entry.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/app/stdio_port/stdio_port.h \
+ C:/ameba/ameba-rtos-pro2/component/soc/8735b/misc/utilities/include/utility.h \
+ C:/ameba/ameba-rtos-pro2/component/media/mmfv2/mmf2_mediatime_8735b.h \
+ C:/ameba/ameba-rtos-pro2/component/media/mmfv2/module_fmp4.h \
+ C:/ameba/ameba-rtos-pro2/component/media/3rdparty/fmp4/libmov/include/fmp4-writer.h \
+ C:/ameba/ameba-rtos-pro2/component/media/3rdparty/fmp4/libmov/include/mov-buffer.h \
+ C:/ameba/ameba-rtos-pro2/component/media/3rdparty/fmp4/libmov/include/mov-format.h \
+ C:/ameba/ameba-rtos-pro2/component/media/3rdparty/fmp4/libmov/include/mov-reader.h \
+ C:/ameba/ameba-rtos-pro2/component/media/3rdparty/fmp4/libflv/include/mpeg4-aac.h \
+ C:/ameba/ameba-rtos-pro2/component/media/3rdparty/fmp4/libflv/include/mpeg4-avc.h \
+ C:/ameba/ameba-rtos-pro2/component/media/3rdparty/fmp4/libmov/include/mov-buffer.h

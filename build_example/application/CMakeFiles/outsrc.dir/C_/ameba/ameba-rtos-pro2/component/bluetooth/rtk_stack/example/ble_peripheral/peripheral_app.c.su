@@ -1,0 +1,10 @@
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/peripheral_app.c:310:6:app_handle_dev_state_evt	40	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/peripheral_app.c:385:6:app_handle_conn_state_evt	56	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/peripheral_app.c:451:6:app_handle_authen_state_evt	24	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/peripheral_app.c:487:6:app_handle_conn_mtu_info_evt	16	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/peripheral_app.c:500:6:app_handle_conn_param_update_evt	32	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/peripheral_app.c:600:6:app_handle_gap_msg	48	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/peripheral_app.c:185:6:app_handle_io_msg	16	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/peripheral_app.c:711:14:app_gap_callback	16	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/peripheral_app.c:920:14:app_profile_callback	40	static
+C:/ameba/ameba-rtos-pro2/component/bluetooth/rtk_stack/example/ble_peripheral/peripheral_app.c:1060:6:app_vendor_callback	16	static
