@@ -38,8 +38,8 @@ static video_params_t video_v1_params = {
     .rc_mode = V1_RCMODE,
     .use_static_addr = 1,
     .level = VCENC_H264_LEVEL_4,
-    .profile = VCENC_H264_MAIN_PROFILE,
-    .cavlc = 1
+    .profile = VCENC_H264_MAIN_PROFILE ,
+    .cavlc = 1 
 };
 
 static int connect_to_wifi_direct(const char *ssid_str, const char *password_str)
@@ -85,11 +85,6 @@ static void wifi_init_direct(void)
 
 static void mmf2_video_websocket_viewer(void *param)
 {
-    //printf("CAM Project V15 - Sem BT\r\n");
-
-    //printf("[APP] Modo: WiFi direto\r\n");
-    //wifi_init_direct();
-
     // Configuração de vídeo
     video_v1_params.resolution = VIDEO_FHD;
     video_v1_params.width = 1920;
@@ -113,11 +108,12 @@ static void mmf2_video_websocket_viewer(void *param)
         mm_module_ctrl(video_v1_ctx, CMD_VIDEO_SET_PARAMS, (int)&video_v1_params);
         mm_module_ctrl(video_v1_ctx, MM_CMD_SET_QUEUE_LEN, video_v1_params.fps * 3);
         mm_module_ctrl(video_v1_ctx, MM_CMD_INIT_QUEUE_ITEMS, MMQI_FLAG_DYNAMIC);
+
     } else {
         rt_printf("video open fail\n\r");
         goto mmf2_video_web_viewer_fail;
     }
-    
+
     encode_rc_parm_t rc_parm;
     rc_parm.minQp = 15;
     rc_parm.maxQp = 26;
@@ -155,7 +151,7 @@ static void mmf2_video_websocket_viewer(void *param)
 void example_websocket_viewer(void)
 {
     if (xTaskCreate(mmf2_video_websocket_viewer, ((const char *)"mmf2_video_websocket_viewer"), 
-                   4096, NULL, tskIDLE_PRIORITY + 2, NULL) != pdPASS) {
+                   8192, NULL, tskIDLE_PRIORITY + 2, NULL) != pdPASS) {
         printf("\n\r%s xTaskCreate(mmf2_video_websocket_viewer) failed", __FUNCTION__);
     }
 }

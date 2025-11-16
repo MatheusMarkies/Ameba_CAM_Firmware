@@ -175,14 +175,9 @@ application/CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/ex
  C:/ameba/ameba-rtos-pro2/component/at_cmd/log_service.h \
  C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/inc/platform_opts.h \
  C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/inc/sensor.h \
- c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\example\bt_config\bt_config_app_main.h \
- c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\example\bt_config\bt_config_app_task.h \
- c:\ameba\ameba-rtos-pro2\component\bluetooth\rtk_stack\example\bt_config\bt_config_wifi.h \
- C:/ameba/ameba-rtos-pro2/component/wifi/driver/include/wifi_structures.h \
- C:/ameba/ameba-rtos-pro2/component/wifi/driver/include/wifi_constants.h \
- C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/inc/platform_opts_bt.h \
- C:/ameba/ameba-rtos-pro2/component/at_cmd/atcmd_bt.h \
  C:/ameba/ameba-rtos-pro2/component/wifi/api/wifi_conf.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/driver/include/wifi_constants.h \
+ C:/ameba/ameba-rtos-pro2/component/wifi/driver/include/wifi_structures.h \
  C:/ameba/ameba-rtos-pro2/component/wifi/driver/include/wifi_constants.h \
  C:/ameba/ameba-rtos-pro2/component/wifi/driver/src/osdep/wlan_intf.h \
  C:/ameba/ameba-rtos-pro2/component/wifi/driver/include/autoconf.h \

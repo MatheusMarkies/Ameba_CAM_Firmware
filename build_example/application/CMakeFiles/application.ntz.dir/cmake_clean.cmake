@@ -23,8 +23,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/ethernet_mii/ethernet_usb.c.obj.d"
   "CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/app_example.c.obj"
   "CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/app_example.c.obj.d"
-  "CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c.obj"
-  "CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c.obj.d"
   "CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/example_websocket_viewer.c.obj"
   "CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/example_websocket_viewer.c.obj.d"
   "CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/example/ssl_client/ssl_client.c.obj"
