@@ -283,9 +283,9 @@ WIFI_RETRY_LOOP:
 	tick3 = rtw_get_current_time();
 	BC_printf("Got IP after %dms.\r\n", (tick3 - tick1));
 
-    extern void on_wifi_connected(void);
-    BC_printf("Calling video startup callback...\r\n");
-    on_wifi_connected();
+    //extern void on_wifi_connected(void);
+    //BC_printf("Calling video startup callback...\r\n");
+    //on_wifi_connected();
 
 #endif
 
