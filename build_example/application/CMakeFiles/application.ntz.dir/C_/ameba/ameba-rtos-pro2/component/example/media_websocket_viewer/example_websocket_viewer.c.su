@@ -1,2 +1,4 @@
-C:/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/example_websocket_viewer.c:62:13:mmf2_video_websocket_viewer	112	static
-C:/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/example_websocket_viewer.c:123:6:example_websocket_viewer	16	static
+C:/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/example_websocket_viewer.c:54:6:clear_wifi_config	8	static
+C:/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/example_websocket_viewer.c:170:13:mmf2_video_websocket_viewer	8	static
+C:/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/example_websocket_viewer.c:140:6:on_wifi_connected	120	static
+C:/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/example_websocket_viewer.c:223:6:example_websocket_viewer	16	static

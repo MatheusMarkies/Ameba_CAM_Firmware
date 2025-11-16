@@ -1,0 +1,8 @@
+C:/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c:19:6:bt_config_callback	24	static
+C:/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c:111:6:bt_config_send_data	8	static
+C:/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c:52:5:connect_to_wifi_bt	232	static
+C:/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c:121:6:bt_config_start_user	8	static
+C:/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c:140:6:bt_config_stop_user	8	static
+C:/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c:158:6:bt_config_has_credentials	0	static
+C:/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c:164:13:bt_config_get_ssid	0	static
+C:/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c:170:13:bt_config_get_password	0	static

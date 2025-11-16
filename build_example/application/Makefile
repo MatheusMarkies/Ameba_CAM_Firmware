@@ -1493,6 +1493,30 @@ C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/app_example.c.
 	cd C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/GCC-RELEASE/build_example && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/app_example.c.s
 .PHONY : C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/app_example.c.s
 
+C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.obj: C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c.obj
+.PHONY : C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.obj
+
+# target to build an object file
+C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c.obj:
+	cd C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/GCC-RELEASE/build_example && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c.obj
+.PHONY : C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c.obj
+
+C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.i: C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c.i
+.PHONY : C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.i
+
+# target to preprocess a source file
+C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c.i:
+	cd C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/GCC-RELEASE/build_example && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c.i
+.PHONY : C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c.i
+
+C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.s: C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c.s
+.PHONY : C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.s
+
+# target to generate assembly for a file
+C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c.s:
+	cd C:/ameba/ameba-rtos-pro2/project/realtek_amebapro2_v0_example/GCC-RELEASE/build_example && $(MAKE) $(MAKESILENT) -f application/CMakeFiles/application.ntz.dir/build.make application/CMakeFiles/application.ntz.dir/C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c.s
+.PHONY : C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.c.s
+
 C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/example_websocket_viewer.obj: C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/example_websocket_viewer.c.obj
 .PHONY : C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/example_websocket_viewer.obj
 
@@ -11774,6 +11798,9 @@ help:
 	@echo "... C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/app_example.obj"
 	@echo "... C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/app_example.i"
 	@echo "... C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/app_example.s"
+	@echo "... C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.obj"
+	@echo "... C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.i"
+	@echo "... C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/bt_config_user.s"
 	@echo "... C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/example_websocket_viewer.obj"
 	@echo "... C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/example_websocket_viewer.i"
 	@echo "... C_/ameba/ameba-rtos-pro2/component/example/media_websocket_viewer/example_websocket_viewer.s"
