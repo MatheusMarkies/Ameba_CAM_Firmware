@@ -10,35 +10,35 @@
 	},
 	"ROTKEY":	{
 		"vrf_alg":	2,
-		"key1_private":	"aea2ff1f59c50393af6a8c4b7ee14cb8e4ffbcec52ca1477b9b93148faf88e4a",
-		"key1_pkhash":	"c394e67663efd67fed1735d91265d4b3dd836a7c80af3fe0624a3ec60387e50f",
-		"key2_private":	"ec884d2701e6008c8786a3ebe11244d2b888b2c6fcaf7be61ad09a21563c28d5",
-		"key2_pkhash":	"a15233647836469bda95aa5bfb6d9cbbae8556808a7930b907825e24950466a9"
+		"key1_private":	"fde4adde9b2ed7367adc052e75df6f12a761fb495f8c46a5730b49c5420c8c6c",
+		"key1_pkhash":	"f51645598d1fee577f5fecf642ef45c59152f9fe6fbc2edced793659b05dbabf",
+		"key2_private":	"e3d7f155614155d9392577bec09bcbdb2bb838572279d9bc8f956b80e734619b",
+		"key2_pkhash":	"0be7fa451cb9fc9c235c5ac85ed424cca6a7adad454bcbe85d0baae52a088ce2"
 	},
 	"HUK":	{
-		"key1":	"c66de6dcc6d9a1f4e77ed71f3e2ee5d6b14784815c854be8341a76eaea01e571",
-		"key2":	"138f68a5854b396004ffcae21e0fc1c7530a4136797f6c5a5f122616b1ce1bf4"
+		"key1":	"9e99234411cc21c07c2f526046180250b7415532ba772e70e29650d1acb4c44b",
+		"key2":	"049d7a190a80330d15e79d26f8ecc06585aa9add50f3060ab641e3631dee7132"
 	},
 	"SEC":	{
-		"key1":	"1bbd035fb1b625138f7719d1bcf4d35755eedd8fe7c6e4071c9476a19a740a8c",
-		"key2":	"2820417212c46bf3cf0d4d53e283226ffe1adff66d03bbd5b3c8eff36e98ba1f"
+		"key1":	"7ca7fea41f1ec31ca4ff09cd4a2690886b0f30d2468dc13a02bf39eaf040147b",
+		"key2":	"119ff90ed80f9a98305fdc7dc12c38616f55603a24af26aad0fa9a8dae1473ce"
 	},
 	"SJTAG":	{
 		"fixed":	{
-			"key1":	"80e0a947701b15ea0eeaedcf5667b6f897b6cfd2d5defaae6bd71874f4e53496",
-			"key2":	"6c24c34493632adf923581afe14697d868ec368ae5fea8798de9798df6007fda"
+			"key1":	"c86db17ebdbb8027c2ef5e5de76780979c65723d73c0ff0227d95074ded158d1",
+			"key2":	"abf96f1d578a3c716197d996433f32d3f727ae02ba2812e91044a2c808df892f"
 		},
 		"nonfixed":	{
-			"key":	"198487390faf3dfe3e362eec665dc41f199b058363cb44eb5da04fc1d184d5cd"
+			"key":	"090e294d3e0b57ab9a3c02d80988af5cb7b7de7e2dd305c6a366b84d300166eb"
 		}
 	},
 	"NSJTAG":	{
 		"fixed":	{
-			"key1":	"789b904268763ec1923f48b1dc595b9afaaf7ff3da909d953fbe3f70acc1987d",
-			"key2":	"8381c4f36e1451befed5fd2d92b6c1eb7bd70f305d575938d86ad2f568ab7801"
+			"key1":	"a7229ba1aeda4b46dd2fe7e4ed878c3775aa2c71b0797c8d81de0de0b4ffb8f1",
+			"key2":	"87b7408a6946330f0147110f72e3b019de45dfd1294d4a42ff899e761861ed44"
 		},
 		"nonfixed":	{
-			"key":	"725a57c8891020152573805839136d6ce05fbd30be2ceafc3566a2e3e494b45e"
+			"key":	"b922135c9b705e5e808025682defd3761fe57783ad998ed8381b8a88f2dd9987"
 		}
 	},
 	"IMG":	{
@@ -46,36 +46,36 @@
 			"verify":	{
 				"vrf_alg":	2,
 				"asymm":	{
-					"private":	"6aca242d85675ab753cd56f14831532f87e6c2b58e59dd9bd74b7196c3780238"
+					"private":	"beca0b47ff6b39e68bc931b0a07140b63bde6d52b6d5147b1c77777fd617443d"
 				}
 			},
 			"hash":	{
 				"hsh_alg":	2,
-				"key":	"8d995dfbb071151a4264677dc1b03874c5838cffbf763135fe98568f1defb8cb"
+				"key":	"8271a84ab249f0792ab0096e85cf15acb93938cd7db888b88ce1073ace058c74"
 			}
 		},
 		"BOOT":	{
 			"verify":	{
 				"vrf_alg":	2,
 				"asymm":	{
-					"private":	"d679713171e95337dd6e259cc5b68db6a5dc9ebdd32c0f24579538bde7fea59c"
+					"private":	"c0c9463c901eac0273a4b11b49211f0b1ba29e052a45b8b9f8ac7ba8cd0751de"
 				}
 			},
 			"hash":	{
 				"hsh_alg":	2,
-				"key":	"0b1f7777d1e88cdbf368eeab3c42d32ae8ca4fd444bb9f835d4a6dcee9305529"
+				"key":	"1ec414369adb955e1a654817be0646ace1e4e1b039389857bd059fa95f311aeb"
 			}
 		},
 		"FW":	{
 			"verify":	{
 				"vrf_alg":	2,
 				"asymm":	{
-					"private":	"54eb6e6106d5b345f93ebf90389ab568ff86cf69d520db96e1385b3f618a6d80"
+					"private":	"30dd0b951c9d3b8ae1fc14462a743abe8e84dd9aec37a746405f150dfbc59c6d"
 				}
 			},
 			"hash":	{
 				"hsh_alg":	2,
-				"key":	"5c6a369ee1dda4cd0c4ce714af52f5364ac531851900cecf8db76f6256f040fb"
+				"key":	"b87d000aaeea5f121aaabae6409ab8dc242edbfec3e669d7e48ddc4fb0fed425"
 			}
 		}
 	}
